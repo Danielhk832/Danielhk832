@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, MaterialUI, Node, Express, or testing**
 
-- 📫 How to reach me **dhkish@uh.edu** or message me on <a href="https://linkedin.com/in/daniel-kish90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-kish90" height="30" width="40" /></a>
+- 📫 How to reach me **dhkish@uh.edu** or message me on <a href="https://linkedin.com/in/daniel-kish90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-kish90" height="20" width="30" /></a>
 
 - 📄 Know about my experiences through my [resume](https://www.danielhkish.com/static/media/resume.1bb76dbe.pdf)
 
