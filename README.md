@@ -19,6 +19,7 @@
 <p align="center">
 <a href="https://dev.to/danielhk832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danielhk832" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel-kish90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-kish90" height="30" width="40" /></a>
+  <a href="https://danielhkish.com" target="blank"><img align="center" src="hhttps://raw.githubusercontent.com/Danielhk832/portfolioV2/main/favicon.ico" alt="danielhkish.com" height="50" width="50" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
